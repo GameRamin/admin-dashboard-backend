@@ -2,9 +2,14 @@
 import pandas as pd
 
 data = {
-    "name": ["A", "B", "C"],
-    "score": [80, 90, 75]
+    "user": ["A", "B", "C", "D"],
+    "score": [80, 90, 75, 88]
 }
 
 df = pd.DataFrame(data)
+
+print("Dataset:")
+print(df)
+
+print("\nStatistics:")
 print(df.describe())
