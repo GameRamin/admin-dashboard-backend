@@ -1,14 +1,11 @@
-# Admin Dashboard & Backend System
+# Data Processing & Analysis Scripts
 
-A simple backend system example for administration purposes.
+Python scripts and notebooks for data preprocessing and basic analysis.
 
 ## Technologies
 - Python
-- SQL (concept)
+- Pandas
+- NumPy
 
-## Description
-This project demonstrates basic backend development and system administration skills,
-including data handling and simple business logic.
-
-## Status
-Personal project for cooperative education application.
+## Purpose
+This project demonstrates foundational data handling skills for AI and ML.
